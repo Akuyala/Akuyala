@@ -1,7 +1,7 @@
 # Akuyala
 #### Christchurch, New Zealand
 
-- Currently developing a chat application, currently in pre pre pre alpha ( **there is some sembalance of thought gone into it and that's about it** ), will make the repo public once a minimum viable product is achieved.
+- Currently developing a chat application, currently in pre pre alpha ( **there is some sembalance of thought gone into it and that's about it** ), will make the repo public once a minimum viable product is achieved.
 - Am not a red panda, or a raccoon.
 
 <!---

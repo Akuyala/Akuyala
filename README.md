@@ -1,9 +1,10 @@
 # Akuyala
 #### Christchurch, New Zealand
 
-Currently not in a software dev job, but like I need to be a formally titled developer to make software lol
+Currently in that weird inbetween stage between univeristy and starting my career? Like I know how to code, work in a team and all, able to (mostly) diagnose problems and give approiate solutions (or workarounds tsk tsk) but because I don't sit behind a desk for 8 hours a day I get overlooked? 🙃
 
-- Currently developing a chat application, currently in pre pre alpha ( **there is some sembalance of thought gone into it and that's about it** ), will make the repo public once a minimum viable product is achieved.
+
+- Currently working on a few projects, one of which is a microblogging/messaging webservice. a couple of others are in design/intial code stages, so will put more up here when they're more advanced.
 - Am not a red panda, or a raccoon.
 
 <!---

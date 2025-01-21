@@ -7,7 +7,7 @@ Currently in that weird inbetween stage between univeristy and starting my caree
 - Python / TypesScript / Java / Rust / C++
 
 ### Current Projects: 
-### Yet Another Messaging Platform (YAMP)
+### Yet Another Messaging Service (YAMS)
 - Intended to be a self-hosted messaging & posting application.
 ### Asset Manager: 
 - Intended to be a small application mainly to catalogue IT assets, licenses, SSL certs, the sorts.

@@ -8,10 +8,11 @@ Currently in that weird inbetween stage between univeristy and starting my caree
 
 ### Current Projects: 
 ### Yet Another Messaging Service (YAMS)
-- Intended to be a self-hosted messaging & posting application.
+- Self-Hosted Messaging & Posting Application.
 ### Asset Manager: 
-- Intended to be a small application mainly to catalogue IT assets, licenses, SSL certs, the sorts.
-
+- Web based application for cataloging IT assets, licenses, SSL certs, the sorts.
+### Rusty Music
+- Offline Music player
 <!---
 Akuyala/Akuyala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

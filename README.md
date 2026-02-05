@@ -11,7 +11,7 @@ Currently in that weird inbetween stage between univeristy and starting my caree
 - Self-Hosted Messaging & Posting Application.
 
 ### Rusty Music
-- Offline Music player
+- Locally Hosted Music player
 <!---
 Akuyala/Akuyala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -7,9 +7,6 @@ Currently in that weird inbetween stage between univeristy and starting my caree
 - Python / TypesScript / Java / Rust
 
 ### Current Projects: 
-### Yet Another Messaging Service (YAMS)
-- Self-Hosted Messaging & Posting Application.
-
 ### Rusty Music
 - Locally Hosted Music player
 <!---

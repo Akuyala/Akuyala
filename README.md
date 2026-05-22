@@ -1,12 +1,11 @@
 # Akuyala
 #### Christchurch, New Zealand
-
-Currently in that weird inbetween stage between univeristy and starting my career? Like I know how to code, work in a team and all, able to (mostly) diagnose problems and give approiate solutions (or workarounds tsk tsk) but because I don't sit behind a desk for 8 hours a day I get overlooked? 🙃
+Computer science graduate looking for work in either software development, compuer networking, or systems administration.
 
 #### Languages I use:
 - Python / TypesScript / Java / Rust
 
-### Current Projects: 
+### Current Programming Projects: 
 ### Rusty Music
 - Locally Hosted Music player
 <!---
